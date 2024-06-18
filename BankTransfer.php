@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WPJobBoard DTJ Bank transfer payment
+Plugin Name: WPJobBoard - DTJ Bank transfer payment
 Description: Plugin adds bank transfer payement to WPJB
 Author: Nicolas Janel (n.janel@msoi.re)
 */
